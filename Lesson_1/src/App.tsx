@@ -15,6 +15,11 @@ function App() {
         age: 20
     }
 
+    function increment() {
+        setCount(count + 1)
+    }
+
+
     return (
         <div className="App">
 
@@ -31,12 +36,8 @@ function App() {
             <p>{obj.age}</p>
 
 
-            {/* our state  */}
-            {count}
-            {/* we increment state with one.  */}
-            <button onClick={() => setCount(count + 1)}>inc</button>
-
-            <Counter />
+            {/* passing props to Counter component */}
+            <Counter count={count} increment={increment} />
         </div>
     )
 }
