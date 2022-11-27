@@ -24,6 +24,8 @@ const Reminder = () => {
     return (
         <>
         <h1>{users.length} birthdays today</h1>
+
+        {/* USING MAP TO DISPLAY ARRAY OF USERS */}
             {users.map((user,i) => (
                 <div key={i}>
                     <img src={user.pic} alt={user.name} className="pic" />
