@@ -1,5 +1,6 @@
-import { useState } from "react"
 import "./style.css"
+import { useState } from "react"
+import Color from "./Color"
 
 
 const ColorFlipper = () => {
@@ -22,10 +23,7 @@ const ColorFlipper = () => {
 
     return (
         <div className="container" style={{ backgroundColor: `#${currentColor}` }}>
-            <div className="color_switch">
-                <h1>Background Color: {`#${currentColor}`}</h1>
-                <button onClick={changeBgColor}>change color</button>
-            </div>
+           <Color currentColor={currentColor} changeBgColor={changeBgColor} />
         </div>
     )
 }

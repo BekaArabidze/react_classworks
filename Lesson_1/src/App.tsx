@@ -2,7 +2,7 @@ import { useState } from 'react'
 import "./style.css"
 import Counter from './components/Counter'
 import ColorFlipper from './components/ColorFlipper/ColorFlipper'
-
+import Reminder from './components/Reminder/Reminder'
 
 function App() {
     // const [count, setCount] = useState(0)
@@ -42,7 +42,8 @@ function App() {
 
 
             {/* JUST IMPORT COMPONENET AND MOUNT HERE */}
-            <ColorFlipper />
+            {/* <ColorFlipper /> */}
+            <Reminder/>
 
         </div>
     )
