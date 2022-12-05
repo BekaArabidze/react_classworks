@@ -1,0 +1,12 @@
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.icons div {
+    cursor: pointer;
+}
+
+.icons div:not(:first-child) {
+    margin-left: 1rem;
+}

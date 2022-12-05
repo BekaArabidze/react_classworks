@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1581,
+        "uid": "3525efde-a9c2-4b3d-a484-e8ff461a9214",
+        "password": "S9FWig8ahr",
+        "first_name": "Ron",
+        "last_name": "Bahringer",
+        "username": "ron.bahringer",
+        "email": "ron.bahringer@email.com",
+        "avatar": "https://robohash.org/nonreprehenderitrerum.png?size=300x300\u0026set=set1",
+        "gender": "Agender",
+        "phone_number": "+596 (178) 430-9913 x4900",
+        "social_insurance_number": "639066059",
+        "date_of_birth": "1994-01-24",
+        "employment": {
+            "title": "Internal Community-Services Architect",
+            "key_skill": "Fast learner"
+        },
+        "address": {
+            "city": "Mosciskistad",
+            "street_name": "Garrett Locks",
+            "street_address": "772 Abe Ramp",
+            "zip_code": "82186",
+            "state": "South Carolina",
+            "country": "United States",
+            "coordinates": {
+                "lat": 59.07892584847539,
+                "lng": -66.1505518706084
+            }
+        },
+        "credit_card": {
+            "cc_number": "4623931363951"
+        },
+        "subscription": {
+            "plan": "Silver",
+            "status": "Idle",
+            "payment_method": "Credit card",
+            "term": "Monthly"
+        }
+    },
+    {
+        "id": 3027,
+        "uid": "a0bbace5-b2f3-448d-a787-0009db1f7f08",
+        "password": "NtPLql23WZ",
+        "first_name": "Nicolas",
+        "last_name": "Dooley",
+        "username": "nicolas.dooley",
+        "email": "nicolas.dooley@email.com",
+        "avatar": "https://robohash.org/animietoccaecati.png?size=300x300\u0026set=set1",
+        "gender": "Agender",
+        "phone_number": "+591 (710) 378-5800",
+        "social_insurance_number": "668758436",
+        "date_of_birth": "1973-05-04",
+        "employment": {
+            "title": "Forward Education Specialist",
+            "key_skill": "Communication"
+        },
+        "address": {
+            "city": "Greenburgh",
+            "street_name": "Wunsch Garden",
+            "street_address": "99655 Elvis Lakes",
+            "zip_code": "79417",
+            "state": "Texas",
+            "country": "United States",
+            "coordinates": {
+                "lat": 69.67637026116608,
+                "lng": 109.37525680965217
+            }
+        },
+        "credit_card": {
+            "cc_number": "4467-6892-4329-8021"
+        },
+        "subscription": {
+            "plan": "Diamond",
+            "status": "Active",
+            "payment_method": "Apple Pay",
+            "term": "Annual"
+        }
+    },
+    {
+        "id": 1451,
+        "uid": "0aa95905-ee1f-4da8-8b79-f1ce165eb0ff",
+        "password": "fqs9MKPw6X",
+        "first_name": "Pierre",
+        "last_name": "Rohan",
+        "username": "pierre.rohan",
+        "email": "pierre.rohan@email.com",
+        "avatar": "https://robohash.org/etperspiciatisveritatis.png?size=300x300\u0026set=set1",
+        "gender": "Non-binary",
+        "phone_number": "+856 1-761-369-6430 x02834",
+        "social_insurance_number": "339972200",
+        "date_of_birth": "1972-09-08",
+        "employment": {
+            "title": "Real-Estate Analyst",
+            "key_skill": "Confidence"
+        },
+        "address": {
+            "city": "Garretport",
+            "street_name": "Huel Haven",
+            "street_address": "585 Russ Heights",
+            "zip_code": "22184-1602",
+            "state": "Ohio",
+            "country": "United States",
+            "coordinates": {
+                "lat": 88.22574002670063,
+                "lng": -156.4448459929501
+            }
+        },
+        "credit_card": {
+            "cc_number": "5126-5350-8301-2826"
+        },
+        "subscription": {
+            "plan": "Business",
+            "status": "Active",
+            "payment_method": "Alipay",
+            "term": "Annual"
+        }
+    },
+    {
+        "id": 7163,
+        "uid": "b2b4d95d-7606-4f13-b718-ef7a885b1ef1",
+        "password": "4J3jcKYsSZ",
+        "first_name": "Jena",
+        "last_name": "Stoltenberg",
+        "username": "jena.stoltenberg",
+        "email": "jena.stoltenberg@email.com",
+        "avatar": "https://robohash.org/mollitiaquissed.png?size=300x300\u0026set=set1",
+        "gender": "Male",
+        "phone_number": "+31 (312) 618-8665 x60567",
+        "social_insurance_number": "555000629",
+        "date_of_birth": "2002-08-21",
+        "employment": {
+            "title": "Consulting Manager",
+            "key_skill": "Work under pressure"
+        },
+        "address": {
+            "city": "New Jasperstad",
+            "street_name": "Elvin Canyon",
+            "street_address": "12264 Celina Cliff",
+            "zip_code": "11296-2374",
+            "state": "Missouri",
+            "country": "United States",
+            "coordinates": {
+                "lat": -38.2765297923867,
+                "lng": 138.54964362269237
+            }
+        },
+        "credit_card": {
+            "cc_number": "5233-7617-7380-0128"
+        },
+        "subscription": {
+            "plan": "Gold",
+            "status": "Idle",
+            "payment_method": "Debit card",
+            "term": "Full subscription"
+        }
+    },
+    {
+        "id": 9943,
+        "uid": "e0c1e201-4f57-4f1c-bdd7-0fa798cda093",
+        "password": "pm5xng6r8w",
+        "first_name": "Illa",
+        "last_name": "Effertz",
+        "username": "illa.effertz",
+        "email": "illa.effertz@email.com",
+        "avatar": "https://robohash.org/quaeullamdelectus.png?size=300x300\u0026set=set1",
+        "gender": "Genderfluid",
+        "phone_number": "+267 1-703-483-7086 x293",
+        "social_insurance_number": "420966103",
+        "date_of_birth": "1992-03-26",
+        "employment": {
+            "title": "Community-Services Agent",
+            "key_skill": "Technical savvy"
+        },
+        "address": {
+            "city": "East Lloydfort",
+            "street_name": "Dario Overpass",
+            "street_address": "6547 Phillip Cape",
+            "zip_code": "53391",
+            "state": "Nebraska",
+            "country": "United States",
+            "coordinates": {
+                "lat": 74.18485396287019,
+                "lng": -34.82636278766995
+            }
+        },
+        "credit_card": {
+            "cc_number": "4887501600320"
+        },
+        "subscription": {
+            "plan": "Diamond",
+            "status": "Pending",
+            "payment_method": "Money transfer",
+            "term": "Full subscription"
+        }
+    }
+]
