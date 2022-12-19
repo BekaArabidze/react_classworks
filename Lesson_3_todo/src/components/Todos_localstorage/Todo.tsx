@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Link } from "react-router-dom";
+
 
 
 interface ITodo {
@@ -35,12 +35,9 @@ const Todo = ({ id, todo, deleteTodo, completed, toggleTodo, updateTodo }: ITodo
                 </div>
                 :
                 <>
-                    <Link to={`${id}`}>
-                        <h4 style={!completed ? { color: "red" } : { color: "green" }}  >
-                            {todo}
-                        </h4>
-                    </Link>
-
+                    <h4 style={!completed ? { color: "red" } : { color: "green" }}  >
+                        {todo}
+                    </h4>
 
                     <button onClick={deleteTodo}>delete</button>
                     <button onClick={toggleTodo}>toggle todo</button>

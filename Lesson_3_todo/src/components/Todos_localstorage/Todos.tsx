@@ -16,7 +16,7 @@ const URL = "https://dummyjson.com"
 
 const Todos = () => {
     let todoList: Itodos[] = JSON.parse(localStorage.getItem('todos') || '[]')
-    const [todos, setTodos] = useState<Itodos[]>([])
+    const [todos, setTodos] = useState<Itodos[]>(todoList || [])
     const [loading, setLoading] = useState(true);
     const [addTodo, setAddTodo] = useState("")
     const [todoLimit, setTodoLimit] = useState(3)
@@ -38,8 +38,12 @@ const Todos = () => {
 
     useEffect(() => {
         // IF YOU WANT TO USE THE API UNCOMMENT THE LINE BELOW
-        getTodos()
-    }, [])
+        // getTodos()
+
+
+        // THIS WILL SET THE TODOS TO LOCAL STORAGE
+        localStorage.setItem('todos', JSON.stringify(todos));
+    }, [todos])
 
 
     // UPDATE TODO
