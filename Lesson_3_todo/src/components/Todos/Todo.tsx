@@ -37,7 +37,7 @@ const Todo = ({ id, todo, deleteTodo, completed, toggleTodo, updateTodo }: ITodo
                 <>
                     <Link to={`${id}`}>
                         <h4 style={!completed ? { color: "red" } : { color: "green" }}  >
-                            {todo}
+                            {todo} - ეს არის ლინკი და რომ დაააჭერ გადაგიყვანს შესაბამის Todoze
                         </h4>
                     </Link>
 
